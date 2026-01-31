@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import igamax from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-igamax@esm/index.mjs';
+import igamax from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-igamax@v0.1.0-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { ndarray } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-igamax@esm/index.mjs';
+import { ndarray } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-igamax@v0.1.0-esm/index.mjs';
 ```
 
 #### igamax( N, x, strideX )
@@ -146,7 +146,7 @@ var idx = igamax.ndarray( 5, x, 1, 1 );
 <script type="module">
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
-import igamax from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-igamax@esm/index.mjs';
+import igamax from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-igamax@v0.1.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'generic'
