@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.1.0">
 
-## Unreleased (2025-12-19)
+## 0.1.0 (2026-01-31)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`ebd03c2`](https://github.com/stdlib-js/stdlib/commit/ebd03c2397241d6aa16f78b5d318af8faec41531) - **docs:** fix broken Markdown link [(#9168)](https://github.com/stdlib-js/stdlib/pull/9168) _(by Sujal charati)_
 -   [`e7e1a3a`](https://github.com/stdlib-js/stdlib/commit/e7e1a3a6f2e5499e77c8cf7821614e4ad1838129) - **feat:** add `blas/base/igamax` [(#7287)](https://github.com/stdlib-js/stdlib/pull/7287) _(by Shabareesh Shetty, Athan Reines, stdlib-bot)_
 
