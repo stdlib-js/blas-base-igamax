@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-01)
+## Unreleased (2026-10-13)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`1f923e3`](https://github.com/stdlib-js/stdlib/commit/1f923e38c3e5b4c00bde76e050f015d10670d51c) - **chore:** clean-up [(#16091)](https://github.com/stdlib-js/stdlib/pull/16091) _(by Philipp Burckhardt)_
 -   [`4eff251`](https://github.com/stdlib-js/stdlib/commit/4eff2519ee5ff28a5f7c5e5c007f17de821218df) - **chore:** update require paths in benchmarks [(#15266)](https://github.com/stdlib-js/stdlib/pull/15266) _(by Philipp Burckhardt)_
 -   [`57b21c2`](https://github.com/stdlib-js/stdlib/commit/57b21c2ce6642689b9f772f63bc9ad95cc6c29b6) - **feat:** add TypeScript declarations for `blas/base/igamax` [(#12420)](https://github.com/stdlib-js/stdlib/pull/12420) _(by Philipp Burckhardt)_
 -   [`f9d1409`](https://github.com/stdlib-js/stdlib/commit/f9d140985e169d34f4e66bd770dc675ea28588a3) - **docs:** add missing JSDoc comment _(by Athan Reines)_
